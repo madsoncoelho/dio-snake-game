@@ -7,12 +7,12 @@ Há um novo tipo de "comida" (na cor azul) que reduz o tamanho da cobrinha por d
 ## Instruções
 Para jogar, abra o `index.html` no seu navegador.
 
+Use as setas direcionais do teclado para guiar a cobrinha.
+
 ## Tecnologias utilizadas
 - CSS
 - HTML
 - JavaScript
-
-Use as setas direcionais do teclado para guiar a cobrinha.
 
 ## Screenshots
 ![screenhost](screenshot.png)
